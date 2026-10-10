@@ -1,16 +1,20 @@
-## Hi there 👋
+# Владимир Лобанов
 
-<!--
-**till2718281828/till2718281828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Финансовый директор (CFO): производство, группы компаний, себестоимость,
+автоматизация финансовой функции на 1С и Power BI.
 
-Here are some ideas to get you started:
+Здесь — публичные демо на синтетических данных. Тема одна: как сделать,
+чтобы числа, которые уходят руководству и собственнику, были проверяемы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[ai-management-reporting](https://github.com/till2718281828/ai-management-reporting)** —
+  управленческий P&L с реестром чисел и слепой проверкой ИИ-агентом:
+  в отчёт внесена ошибка, агент нашёл её и подтвердил остальные 157 чисел.
+- **[claude-cycle-vscode](https://github.com/till2718281828/claude-cycle-vscode)** —
+  регламент работы с ИИ-агентом как система внутреннего контроля:
+  точки остановки, проверяющий — не исполнитель, журнал решений.
+
+---
+
+CFO in manufacturing and multi-entity groups. Public demos on synthetic data:
+verifiable management reporting and internal control for work with AI agents.
+
